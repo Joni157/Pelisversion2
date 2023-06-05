@@ -1,0 +1,39 @@
+.App {
+  text-align: center;
+}
+.form{
+  display: flex;
+}
+.form-imput{
+  padding: 2rem;
+}
+h2{
+  text-align: center;
+}
+fombuscar{
+  text-align: center;
+  align-items: center;
+}
+.resultados{
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-items: flex-start;
+  justify-content: space-around;
+
+}
+.card{
+  display: flex;
+  flex-direction: column;
+  padding: 3rem;
+  height: auto;
+  width: 500px;
+  align-items: center;
+}
+.NoRes{
+  justify-self: center;
+}
+FORMpelis{
+  height: 100px;
+  width: 100px;
+}
